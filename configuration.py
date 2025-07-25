@@ -1,5 +1,6 @@
 import os 
 from dotenv import load_dotenv
+import pandas
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 
